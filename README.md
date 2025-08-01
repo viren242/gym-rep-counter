@@ -3,10 +3,10 @@
 A simple web application to track your gym workouts by counting reps and sets for different exercises.
 
 #### GitHub
-https://github.com/viren242/gym-rep-counter
+[https://github.com/viren242/gym-rep-counter](https://github.com/viren242/gym-rep-counter)
 
 #### Deployment 
-https://adv-shopping-cart.netlify.app/
+[https://adv-shopping-cart.netlify.app/](https://gym-rep-trackr.netlify.app/)
 
 ## Features ✨
 
